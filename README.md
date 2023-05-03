@@ -3,4 +3,4 @@ For this project, I utilized various tools such as Arduino, servo motors, DC mot
 
 limitations: usage of servos were reduced becuase of the signal interference 
 
-![alt text]()
+![alt text](https://github.com/raj-akhil-1/3-axis_robotic_hand/blob/main/Results/isometric_view.png)
